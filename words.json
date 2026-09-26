@@ -1,0 +1,1332 @@
+[
+  {
+    "word": "deteriorate",
+    "translation": "ухудшаться",
+    "definition": "to become progressively worse",
+    "example": "The resident's condition began to deteriorate overnight.",
+    "category": "Medical"
+  },
+  {
+    "word": "alleviate",
+    "translation": "облегчать, уменьшать",
+    "definition": "to make pain or a problem less severe",
+    "example": "The medication helped alleviate her pain.",
+    "category": "Medical"
+  },
+  {
+    "word": "impairment",
+    "translation": "нарушение функции",
+    "definition": "a reduction in physical or mental ability",
+    "example": "The resident has mild cognitive impairment.",
+    "category": "Medical"
+  },
+  {
+    "word": "dysphagia",
+    "translation": "затруднение глотания",
+    "definition": "difficulty swallowing",
+    "example": "The resident was evaluated for dysphagia.",
+    "category": "Medical"
+  },
+  {
+    "word": "edema",
+    "translation": "отёк",
+    "definition": "swelling caused by fluid in body tissues",
+    "example": "The nurse observed edema in both legs.",
+    "category": "Medical"
+  },
+  {
+    "word": "discrepancy",
+    "translation": "несоответствие, расхождение",
+    "definition": "a difference between things that should be the same",
+    "example": "We noticed a discrepancy in the documentation.",
+    "category": "C1"
+  },
+  {
+    "word": "feasible",
+    "translation": "осуществимый, выполнимый",
+    "definition": "possible and practical to accomplish",
+    "example": "We need to determine whether the plan is feasible.",
+    "category": "C1"
+  },
+  {
+    "word": "persistent",
+    "translation": "стойкий, постоянный",
+    "definition": "continuing for a long time",
+    "example": "The resident reported persistent discomfort.",
+    "category": "B2-C1"
+  },
+  {
+    "word": "coherent",
+    "translation": "связный, логичный",
+    "definition": "clear, logical, and understandable",
+    "example": "The resident was able to give coherent answers.",
+    "category": "C1"
+  },
+  {
+    "word": "substantial",
+    "translation": "значительный, существенный",
+    "definition": "large or important in amount or degree",
+    "example": "There has been substantial improvement in her mobility.",
+    "category": "C1"
+  },
+  {
+    "word": "anticipate",
+    "translation": "предвидеть, ожидать",
+    "definition": "to expect and prepare for something",
+    "example": "We anticipate an increase in participation.",
+    "category": "B2-C1"
+  },
+  {
+    "word": "cognitive decline",
+    "translation": "снижение когнитивных функций",
+    "definition": "a gradual reduction in memory and thinking abilities",
+    "example": "The family reported signs of cognitive decline.",
+    "category": "Medical"
+  },
+  {
+    "word": "shortness of breath",
+    "translation": "одышка",
+    "definition": "difficulty breathing",
+    "example": "The resident reported shortness of breath after walking.",
+    "category": "Medical"
+  },
+  {
+    "word": "adverse reaction",
+    "translation": "нежелательная реакция",
+    "definition": "an unwanted or harmful reaction to treatment",
+    "example": "The resident experienced an adverse reaction to the medication.",
+    "category": "Medical"
+  },
+  {
+    "word": "pressure ulcer",
+    "translation": "пролежень",
+    "definition": "an injury to skin caused by prolonged pressure",
+    "example": "The nurse assessed the resident for a pressure ulcer.",
+    "category": "Medical"
+  },
+  {
+    "word": "seizure",
+    "translation": "судорожный приступ",
+    "definition": "a sudden uncontrolled electrical disturbance in the brain",
+    "example": "The resident has a history of seizures.",
+    "category": "Medical"
+  },
+  {
+    "word": "renal impairment",
+    "translation": "нарушение функции почек",
+    "definition": "reduced ability of the kidneys to function normally",
+    "example": "The dosage was adjusted because of renal impairment.",
+    "category": "Medical"
+  },
+  {
+    "word": "congestive heart failure",
+    "translation": "застойная сердечная недостаточность",
+    "definition": "a condition in which the heart cannot pump blood effectively",
+    "example": "The resident has a history of congestive heart failure.",
+    "category": "Medical"
+  },
+  {
+    "word": "exacerbate",
+    "translation": "усугублять",
+    "definition": "to make a problem or condition worse",
+    "example": "Lack of sleep can exacerbate confusion.",
+    "category": "C1"
+  },
+  {
+    "word": "ambiguous",
+    "translation": "неоднозначный",
+    "definition": "open to more than one interpretation",
+    "example": "The instruction was ambiguous and needed clarification.",
+    "category": "C1"
+  },
+  {
+    "word": "comprehensive",
+    "translation": "всесторонний, полный",
+    "definition": "including all or nearly all relevant aspects",
+    "example": "The team completed a comprehensive assessment.",
+    "category": "C1"
+  },
+  {
+    "word": "compliance",
+    "translation": "соблюдение требований",
+    "definition": "the act of following rules or requirements",
+    "example": "The facility reviews compliance with safety procedures.",
+    "category": "C1"
+  },
+  {
+    "word": "intervention",
+    "translation": "вмешательство, мера",
+    "definition": "an action intended to improve a situation",
+    "example": "The care team discussed an appropriate intervention.",
+    "category": "Medical"
+  },
+  {
+    "word": "contraindication",
+    "translation": "противопоказание",
+    "definition": "a reason a treatment should not be used",
+    "example": "The nurse checked for contraindications before treatment.",
+    "category": "Medical"
+  },
+  {
+    "word": "incontinence",
+    "translation": "недержание",
+    "definition": "lack of voluntary control over urination or defecation",
+    "example": "The care plan addresses urinary incontinence.",
+    "category": "Medical"
+  },
+  {
+    "word": "lethargic",
+    "translation": "вялый, заторможенный",
+    "definition": "lacking energy or alertness",
+    "example": "The resident appeared unusually lethargic this morning.",
+    "category": "Medical"
+  },
+  {
+    "word": "aspiration",
+    "translation": "аспирация, попадание в дыхательные пути",
+    "definition": "entry of food or liquid into the airway",
+    "example": "Dysphagia may increase the risk of aspiration.",
+    "category": "Medical"
+  },
+  {
+    "word": "dehydration",
+    "translation": "обезвоживание",
+    "definition": "a condition caused by excessive loss of body water",
+    "example": "Staff monitored the resident for signs of dehydration.",
+    "category": "Medical"
+  },
+  {
+    "word": "outstanding",
+    "translation": "неоплаченный; нерешённый",
+    "definition": "Workplace meaning: неоплаченный; нерешённый",
+    "example": "We discussed how to use outstanding during the morning meeting.",
+    "category": "B2–C1 Workplace"
+  },
+  {
+    "word": "outstanding invoice",
+    "translation": "неоплаченный счёт",
+    "definition": "Workplace meaning: неоплаченный счёт",
+    "example": "We still have an outstanding invoice that needs to be resolved.",
+    "category": "B2–C1 Workplace"
+  },
+  {
+    "word": "to update",
+    "translation": "обновлять",
+    "definition": "Workplace meaning: обновлять",
+    "example": "We discussed how to use to update during the morning meeting.",
+    "category": "B2–C1 Workplace"
+  },
+  {
+    "word": "to finalize",
+    "translation": "завершать, окончательно оформлять",
+    "definition": "Workplace meaning: завершать, окончательно оформлять",
+    "example": "We discussed how to use to finalize during the morning meeting.",
+    "category": "B2–C1 Workplace"
+  },
+  {
+    "word": "to facilitate",
+    "translation": "организовывать, содействовать проведению",
+    "definition": "Workplace meaning: организовывать, содействовать проведению",
+    "example": "We discussed how to use to facilitate during the morning meeting.",
+    "category": "B2–C1 Workplace"
+  },
+  {
+    "word": "to approach",
+    "translation": "подходить; рассматривать вопрос",
+    "definition": "Workplace meaning: подходить; рассматривать вопрос",
+    "example": "We discussed how to use to approach during the morning meeting.",
+    "category": "B2–C1 Workplace"
+  },
+  {
+    "word": "to prevent",
+    "translation": "предотвращать",
+    "definition": "Workplace meaning: предотвращать",
+    "example": "We discussed how to use to prevent during the morning meeting.",
+    "category": "B2–C1 Workplace"
+  },
+  {
+    "word": "prevention",
+    "translation": "предотвращение, профилактика",
+    "definition": "Workplace meaning: предотвращение, профилактика",
+    "example": "We discussed how to use prevention during the morning meeting.",
+    "category": "B2–C1 Workplace"
+  },
+  {
+    "word": "to tolerate",
+    "translation": "терпеть, допускать",
+    "definition": "Workplace meaning: терпеть, допускать",
+    "example": "We discussed how to use to tolerate during the morning meeting.",
+    "category": "B2–C1 Workplace"
+  },
+  {
+    "word": "to restrict",
+    "translation": "ограничивать",
+    "definition": "Workplace meaning: ограничивать",
+    "example": "We discussed how to use to restrict during the morning meeting.",
+    "category": "B2–C1 Workplace"
+  },
+  {
+    "word": "restriction",
+    "translation": "ограничение",
+    "definition": "Workplace meaning: ограничение",
+    "example": "We discussed how to use restriction during the morning meeting.",
+    "category": "B2–C1 Workplace"
+  },
+  {
+    "word": "unattended",
+    "translation": "без присмотра",
+    "definition": "Workplace meaning: без присмотра",
+    "example": "We discussed how to use unattended during the morning meeting.",
+    "category": "B2–C1 Workplace"
+  },
+  {
+    "word": "unescorted",
+    "translation": "без сопровождения",
+    "definition": "Workplace meaning: без сопровождения",
+    "example": "We discussed how to use unescorted during the morning meeting.",
+    "category": "B2–C1 Workplace"
+  },
+  {
+    "word": "to communicate",
+    "translation": "сообщать, доводить информацию",
+    "definition": "Workplace meaning: сообщать, доводить информацию",
+    "example": "We discussed how to use to communicate during the morning meeting.",
+    "category": "B2–C1 Workplace"
+  },
+  {
+    "word": "to emphasize",
+    "translation": "подчёркивать, делать акцент",
+    "definition": "Workplace meaning: подчёркивать, делать акцент",
+    "example": "We discussed how to use to emphasize during the morning meeting.",
+    "category": "B2–C1 Workplace"
+  },
+  {
+    "word": "to provide",
+    "translation": "предоставлять, обеспечивать",
+    "definition": "Workplace meaning: предоставлять, обеспечивать",
+    "example": "We discussed how to use to provide during the morning meeting.",
+    "category": "B2–C1 Workplace"
+  },
+  {
+    "word": "to identify",
+    "translation": "выявлять, определять",
+    "definition": "Workplace meaning: выявлять, определять",
+    "example": "We discussed how to use to identify during the morning meeting.",
+    "category": "B2–C1 Workplace"
+  },
+  {
+    "word": "to complete",
+    "translation": "завершать, выполнять",
+    "definition": "Workplace meaning: завершать, выполнять",
+    "example": "We discussed how to use to complete during the morning meeting.",
+    "category": "B2–C1 Workplace"
+  },
+  {
+    "word": "completion",
+    "translation": "завершение, выполнение",
+    "definition": "Workplace meaning: завершение, выполнение",
+    "example": "We discussed how to use completion during the morning meeting.",
+    "category": "B2–C1 Workplace"
+  },
+  {
+    "word": "to submit",
+    "translation": "подавать, отправлять",
+    "definition": "Workplace meaning: подавать, отправлять",
+    "example": "We discussed how to use to submit during the morning meeting.",
+    "category": "B2–C1 Workplace"
+  },
+  {
+    "word": "to verify",
+    "translation": "проверять, подтверждать",
+    "definition": "Workplace meaning: проверять, подтверждать",
+    "example": "We discussed how to use to verify during the morning meeting.",
+    "category": "B2–C1 Workplace"
+  },
+  {
+    "word": "to collect",
+    "translation": "собирать",
+    "definition": "Workplace meaning: собирать",
+    "example": "We discussed how to use to collect during the morning meeting.",
+    "category": "B2–C1 Workplace"
+  },
+  {
+    "word": "to prepare",
+    "translation": "подготавливать",
+    "definition": "Workplace meaning: подготавливать",
+    "example": "We discussed how to use to prepare during the morning meeting.",
+    "category": "B2–C1 Workplace"
+  },
+  {
+    "word": "to arrange",
+    "translation": "организовывать",
+    "definition": "Workplace meaning: организовывать",
+    "example": "We discussed how to use to arrange during the morning meeting.",
+    "category": "B2–C1 Workplace"
+  },
+  {
+    "word": "to order",
+    "translation": "заказывать",
+    "definition": "Workplace meaning: заказывать",
+    "example": "We discussed how to use to order during the morning meeting.",
+    "category": "B2–C1 Workplace"
+  },
+  {
+    "word": "to stock",
+    "translation": "пополнять запасы",
+    "definition": "Workplace meaning: пополнять запасы",
+    "example": "We discussed how to use to stock during the morning meeting.",
+    "category": "B2–C1 Workplace"
+  },
+  {
+    "word": "supplies",
+    "translation": "расходные материалы, запасы",
+    "definition": "Workplace meaning: расходные материалы, запасы",
+    "example": "We discussed how to use supplies during the morning meeting.",
+    "category": "B2–C1 Workplace"
+  },
+  {
+    "word": "equipment",
+    "translation": "оборудование",
+    "definition": "Workplace meaning: оборудование",
+    "example": "We discussed how to use equipment during the morning meeting.",
+    "category": "B2–C1 Workplace"
+  },
+  {
+    "word": "contractor",
+    "translation": "подрядчик",
+    "definition": "Workplace meaning: подрядчик",
+    "example": "We discussed how to use contractor during the morning meeting.",
+    "category": "B2–C1 Workplace"
+  },
+  {
+    "word": "contact information",
+    "translation": "контактная информация",
+    "definition": "Workplace meaning: контактная информация",
+    "example": "We discussed how to use contact information during the morning meeting.",
+    "category": "B2–C1 Workplace"
+  },
+  {
+    "word": "general email",
+    "translation": "общий адрес электронной почты",
+    "definition": "Workplace meaning: общий адрес электронной почты",
+    "example": "We discussed how to use general email during the morning meeting.",
+    "category": "B2–C1 Workplace"
+  },
+  {
+    "word": "to reach out",
+    "translation": "связаться",
+    "definition": "Workplace meaning: связаться",
+    "example": "We discussed how to use to reach out during the morning meeting.",
+    "category": "B2–C1 Workplace"
+  },
+  {
+    "word": "to be on top of something",
+    "translation": "держать что-либо под контролем",
+    "definition": "Workplace meaning: держать что-либо под контролем",
+    "example": "I am on top of the issue and will follow up today.",
+    "category": "B2–C1 Workplace"
+  },
+  {
+    "word": "to be on the same page",
+    "translation": "одинаково понимать ситуацию, действовать согласованно",
+    "definition": "Workplace meaning: одинаково понимать ситуацию, действовать согласованно",
+    "example": "We need to be on the same page before we speak with the family.",
+    "category": "B2–C1 Workplace"
+  },
+  {
+    "word": "to make an exception",
+    "translation": "сделать исключение",
+    "definition": "Workplace meaning: сделать исключение",
+    "example": "We discussed how to use to make an exception during the morning meeting.",
+    "category": "B2–C1 Workplace"
+  },
+  {
+    "word": "going forward",
+    "translation": "в дальнейшем",
+    "definition": "Workplace meaning: в дальнейшем",
+    "example": "Going forward, all changes should be documented in the care plan.",
+    "category": "B2–C1 Workplace"
+  },
+  {
+    "word": "as soon as possible",
+    "translation": "как можно скорее",
+    "definition": "Workplace meaning: как можно скорее",
+    "example": "We discussed how to use as soon as possible during the morning meeting.",
+    "category": "B2–C1 Workplace"
+  },
+  {
+    "word": "to make sure",
+    "translation": "убедиться",
+    "definition": "Workplace meaning: убедиться",
+    "example": "We discussed how to use to make sure during the morning meeting.",
+    "category": "B2–C1 Workplace"
+  },
+  {
+    "word": "to touch base with someone",
+    "translation": "связаться, коротко обсудить ситуацию",
+    "definition": "Workplace meaning: связаться, коротко обсудить ситуацию",
+    "example": "We discussed how to use to touch base with someone during the morning meeting.",
+    "category": "B2–C1 Workplace"
+  },
+  {
+    "word": "to follow up",
+    "translation": "проконтролировать, связаться повторно",
+    "definition": "Workplace meaning: проконтролировать, связаться повторно",
+    "example": "We discussed how to use to follow up during the morning meeting.",
+    "category": "B2–C1 Workplace"
+  },
+  {
+    "word": "to come up with",
+    "translation": "разработать, придумать",
+    "definition": "Workplace meaning: разработать, придумать",
+    "example": "We discussed how to use to come up with during the morning meeting.",
+    "category": "B2–C1 Workplace"
+  },
+  {
+    "word": "to be available",
+    "translation": "быть доступным",
+    "definition": "Workplace meaning: быть доступным",
+    "example": "We discussed how to use to be available during the morning meeting.",
+    "category": "B2–C1 Workplace"
+  },
+  {
+    "word": "availability",
+    "translation": "доступность",
+    "definition": "Workplace meaning: доступность",
+    "example": "We discussed how to use availability during the morning meeting.",
+    "category": "B2–C1 Workplace"
+  },
+  {
+    "word": "to be involved",
+    "translation": "быть вовлечённым",
+    "definition": "Workplace meaning: быть вовлечённым",
+    "example": "We discussed how to use to be involved during the morning meeting.",
+    "category": "B2–C1 Workplace"
+  },
+  {
+    "word": "to split",
+    "translation": "разделить",
+    "definition": "Workplace meaning: разделить",
+    "example": "We discussed how to use to split during the morning meeting.",
+    "category": "B2–C1 Workplace"
+  },
+  {
+    "word": "to appreciate",
+    "translation": "ценить; быть благодарным",
+    "definition": "Workplace meaning: ценить; быть благодарным",
+    "example": "We discussed how to use to appreciate during the morning meeting.",
+    "category": "B2–C1 Workplace"
+  },
+  {
+    "word": "positive feedback",
+    "translation": "положительный отзыв",
+    "definition": "Workplace meaning: положительный отзыв",
+    "example": "We discussed how to use positive feedback during the morning meeting.",
+    "category": "B2–C1 Workplace"
+  },
+  {
+    "word": "testimonial",
+    "translation": "отзыв, рекомендация",
+    "definition": "Workplace meaning: отзыв, рекомендация",
+    "example": "We discussed how to use testimonial during the morning meeting.",
+    "category": "B2–C1 Workplace"
+  },
+  {
+    "word": "review",
+    "translation": "отзыв; проверка",
+    "definition": "Workplace meaning: отзыв; проверка",
+    "example": "We discussed how to use review during the morning meeting.",
+    "category": "B2–C1 Workplace"
+  },
+  {
+    "word": "customer service",
+    "translation": "обслуживание клиентов",
+    "definition": "Workplace meaning: обслуживание клиентов",
+    "example": "We discussed how to use customer service during the morning meeting.",
+    "category": "B2–C1 Workplace"
+  },
+  {
+    "word": "quality of care",
+    "translation": "качество ухода",
+    "definition": "Workplace meaning: качество ухода",
+    "example": "We discussed how to use quality of care during the morning meeting.",
+    "category": "B2–C1 Workplace"
+  },
+  {
+    "word": "staffing challenge",
+    "translation": "проблема с обеспеченностью персоналом",
+    "definition": "Workplace meaning: проблема с обеспеченностью персоналом",
+    "example": "We discussed how to use staffing challenge during the morning meeting.",
+    "category": "B2–C1 Workplace"
+  },
+  {
+    "word": "action plan",
+    "translation": "план действий",
+    "definition": "Workplace meaning: план действий",
+    "example": "We discussed how to use action plan during the morning meeting.",
+    "category": "B2–C1 Workplace"
+  },
+  {
+    "word": "quarterly",
+    "translation": "ежеквартальный",
+    "definition": "Workplace meaning: ежеквартальный",
+    "example": "We discussed how to use quarterly during the morning meeting.",
+    "category": "B2–C1 Workplace"
+  },
+  {
+    "word": "facility",
+    "translation": "учреждение",
+    "definition": "Workplace meaning: учреждение",
+    "example": "We discussed how to use facility during the morning meeting.",
+    "category": "B2–C1 Workplace"
+  },
+  {
+    "word": "competency",
+    "translation": "профессиональная компетентность",
+    "definition": "Workplace meaning: профессиональная компетентность",
+    "example": "We discussed how to use competency during the morning meeting.",
+    "category": "B2–C1 Workplace"
+  },
+  {
+    "word": "competency fair",
+    "translation": "мероприятие по проверке профессиональных навыков",
+    "definition": "Workplace meaning: мероприятие по проверке профессиональных навыков",
+    "example": "We discussed how to use competency fair during the morning meeting.",
+    "category": "B2–C1 Workplace"
+  },
+  {
+    "word": "education needs",
+    "translation": "потребности в обучении",
+    "definition": "Workplace meaning: потребности в обучении",
+    "example": "We discussed how to use education needs during the morning meeting.",
+    "category": "B2–C1 Workplace"
+  },
+  {
+    "word": "survey",
+    "translation": "проверка, инспекция; опрос",
+    "definition": "Workplace meaning: проверка, инспекция; опрос",
+    "example": "We discussed how to use survey during the morning meeting.",
+    "category": "B2–C1 Workplace"
+  },
+  {
+    "word": "consent",
+    "translation": "согласие",
+    "definition": "Workplace meaning: согласие",
+    "example": "We discussed how to use consent during the morning meeting.",
+    "category": "B2–C1 Workplace"
+  },
+  {
+    "word": "history",
+    "translation": "история, сведения за прошлый период",
+    "definition": "Workplace meaning: история, сведения за прошлый период",
+    "example": "We discussed how to use history during the morning meeting.",
+    "category": "B2–C1 Workplace"
+  },
+  {
+    "word": "specialty program",
+    "translation": "специализированная программа",
+    "definition": "Workplace meaning: специализированная программа",
+    "example": "We discussed how to use specialty program during the morning meeting.",
+    "category": "B2–C1 Workplace"
+  },
+  {
+    "word": "to implement",
+    "translation": "внедрять",
+    "definition": "Workplace meaning: внедрять",
+    "example": "We discussed how to use to implement during the morning meeting.",
+    "category": "B2–C1 Workplace"
+  },
+  {
+    "word": "to be up and running",
+    "translation": "быть полностью запущенным и работающим",
+    "definition": "Workplace meaning: быть полностью запущенным и работающим",
+    "example": "We discussed how to use to be up and running during the morning meeting.",
+    "category": "B2–C1 Workplace"
+  },
+  {
+    "word": "to expedite",
+    "translation": "ускорять",
+    "definition": "Workplace meaning: ускорять",
+    "example": "We discussed how to use to expedite during the morning meeting.",
+    "category": "B2–C1 Workplace"
+  },
+  {
+    "word": "to ensure",
+    "translation": "обеспечивать, гарантировать",
+    "definition": "Workplace meaning: обеспечивать, гарантировать",
+    "example": "We discussed how to use to ensure during the morning meeting.",
+    "category": "B2–C1 Workplace"
+  },
+  {
+    "word": "in case",
+    "translation": "на случай если",
+    "definition": "Workplace meaning: на случай если",
+    "example": "We discussed how to use in case during the morning meeting.",
+    "category": "B2–C1 Workplace"
+  },
+  {
+    "word": "additional",
+    "translation": "дополнительный",
+    "definition": "Workplace meaning: дополнительный",
+    "example": "We discussed how to use additional during the morning meeting.",
+    "category": "B2–C1 Workplace"
+  },
+  {
+    "word": "sufficient",
+    "translation": "достаточный",
+    "definition": "Workplace meaning: достаточный",
+    "example": "We discussed how to use sufficient during the morning meeting.",
+    "category": "B2–C1 Workplace"
+  },
+  {
+    "word": "consistency",
+    "translation": "консистенция; последовательность",
+    "definition": "Workplace meaning: консистенция; последовательность",
+    "example": "We discussed how to use consistency during the morning meeting.",
+    "category": "B2–C1 Workplace"
+  },
+  {
+    "word": "hazard",
+    "translation": "опасность, фактор риска",
+    "definition": "Workplace meaning: опасность, фактор риска",
+    "example": "We discussed how to use hazard during the morning meeting.",
+    "category": "B2–C1 Workplace"
+  },
+  {
+    "word": "to document",
+    "translation": "документировать",
+    "definition": "Workplace meaning: документировать",
+    "example": "We discussed how to use to document during the morning meeting.",
+    "category": "B2–C1 Workplace"
+  },
+  {
+    "word": "documentation",
+    "translation": "документация",
+    "definition": "Workplace meaning: документация",
+    "example": "We discussed how to use documentation during the morning meeting.",
+    "category": "B2–C1 Workplace"
+  },
+  {
+    "word": "assessment",
+    "translation": "оценка",
+    "definition": "Workplace meaning: оценка",
+    "example": "We discussed how to use assessment during the morning meeting.",
+    "category": "B2–C1 Workplace"
+  },
+  {
+    "word": "to admit",
+    "translation": "принимать в учреждение",
+    "definition": "Workplace meaning: принимать в учреждение",
+    "example": "We discussed how to use to admit during the morning meeting.",
+    "category": "B2–C1 Workplace"
+  },
+  {
+    "word": "admission",
+    "translation": "поступление, приём",
+    "definition": "Workplace meaning: поступление, приём",
+    "example": "We discussed how to use admission during the morning meeting.",
+    "category": "B2–C1 Workplace"
+  },
+  {
+    "word": "discharge",
+    "translation": "выписка",
+    "definition": "Workplace meaning: выписка",
+    "example": "We discussed how to use discharge during the morning meeting.",
+    "category": "B2–C1 Workplace"
+  },
+  {
+    "word": "to discharge",
+    "translation": "выписывать",
+    "definition": "Workplace meaning: выписывать",
+    "example": "We discussed how to use to discharge during the morning meeting.",
+    "category": "B2–C1 Workplace"
+  },
+  {
+    "word": "readmission",
+    "translation": "повторное поступление",
+    "definition": "Workplace meaning: повторное поступление",
+    "example": "We discussed how to use readmission during the morning meeting.",
+    "category": "B2–C1 Workplace"
+  },
+  {
+    "word": "census",
+    "translation": "количество резидентов/пациентов в учреждении",
+    "definition": "Workplace meaning: количество резидентов/пациентов в учреждении",
+    "example": "We discussed how to use census during the morning meeting.",
+    "category": "B2–C1 Workplace"
+  },
+  {
+    "word": "offline",
+    "translation": "временно недоступный, выведенный из эксплуатации",
+    "definition": "Workplace meaning: временно недоступный, выведенный из эксплуатации",
+    "example": "We discussed how to use offline during the morning meeting.",
+    "category": "B2–C1 Workplace"
+  },
+  {
+    "word": "to take a room offline",
+    "translation": "временно вывести комнату из эксплуатации",
+    "definition": "Workplace meaning: временно вывести комнату из эксплуатации",
+    "example": "We discussed how to use to take a room offline during the morning meeting.",
+    "category": "B2–C1 Workplace"
+  },
+  {
+    "word": "medically ready",
+    "translation": "готов по медицинским показаниям",
+    "definition": "Workplace meaning: готов по медицинским показаниям",
+    "example": "The resident is medically ready for discharge.",
+    "category": "Medical / Nursing Home"
+  },
+  {
+    "word": "clinical",
+    "translation": "клинический; связанный с медицинской частью",
+    "definition": "Workplace meaning: клинический; связанный с медицинской частью",
+    "example": "We discussed clinical during the resident's care review.",
+    "category": "Medical / Nursing Home"
+  },
+  {
+    "word": "clinician",
+    "translation": "медицинский специалист",
+    "definition": "Workplace meaning: медицинский специалист",
+    "example": "We discussed clinician during the resident's care review.",
+    "category": "Medical / Nursing Home"
+  },
+  {
+    "word": "clinical team",
+    "translation": "клиническая команда",
+    "definition": "Workplace meaning: клиническая команда",
+    "example": "We discussed clinical team during the resident's care review.",
+    "category": "Medical / Nursing Home"
+  },
+  {
+    "word": "care plan",
+    "translation": "план ухода",
+    "definition": "Workplace meaning: план ухода",
+    "example": "We discussed care plan during the resident's care review.",
+    "category": "Medical / Nursing Home"
+  },
+  {
+    "word": "care plan meeting",
+    "translation": "собрание по плану ухода",
+    "definition": "Workplace meaning: собрание по плану ухода",
+    "example": "The interdisciplinary team scheduled a care plan meeting with the family.",
+    "category": "Medical / Nursing Home"
+  },
+  {
+    "word": "care plan intervention",
+    "translation": "мероприятие / вмешательство в плане ухода",
+    "definition": "Workplace meaning: мероприятие / вмешательство в плане ухода",
+    "example": "We discussed care plan intervention during the resident's care review.",
+    "category": "Medical / Nursing Home"
+  },
+  {
+    "word": "resident",
+    "translation": "резидент",
+    "definition": "Workplace meaning: резидент",
+    "example": "We discussed resident during the resident's care review.",
+    "category": "Medical / Nursing Home"
+  },
+  {
+    "word": "patient",
+    "translation": "пациент",
+    "definition": "Workplace meaning: пациент",
+    "example": "We discussed patient during the resident's care review.",
+    "category": "Medical / Nursing Home"
+  },
+  {
+    "word": "family member",
+    "translation": "член семьи",
+    "definition": "Workplace meaning: член семьи",
+    "example": "We discussed family member during the resident's care review.",
+    "category": "Medical / Nursing Home"
+  },
+  {
+    "word": "hospitalization",
+    "translation": "госпитализация",
+    "definition": "Workplace meaning: госпитализация",
+    "example": "We discussed hospitalization during the resident's care review.",
+    "category": "Medical / Nursing Home"
+  },
+  {
+    "word": "unplanned hospitalization",
+    "translation": "незапланированная госпитализация",
+    "definition": "Workplace meaning: незапланированная госпитализация",
+    "example": "The team reviewed the unplanned hospitalization during the morning meeting.",
+    "category": "Medical / Nursing Home"
+  },
+  {
+    "word": "to prevent hospitalization",
+    "translation": "предотвратить госпитализацию",
+    "definition": "Workplace meaning: предотвратить госпитализацию",
+    "example": "We discussed to prevent hospitalization during the resident's care review.",
+    "category": "Medical / Nursing Home"
+  },
+  {
+    "word": "infection",
+    "translation": "инфекция",
+    "definition": "Workplace meaning: инфекция",
+    "example": "We discussed infection during the resident's care review.",
+    "category": "Medical / Nursing Home"
+  },
+  {
+    "word": "infection control",
+    "translation": "инфекционный контроль",
+    "definition": "Workplace meaning: инфекционный контроль",
+    "example": "We discussed infection control during the resident's care review.",
+    "category": "Medical / Nursing Home"
+  },
+  {
+    "word": "infection prevention",
+    "translation": "профилактика инфекций",
+    "definition": "Workplace meaning: профилактика инфекций",
+    "example": "We discussed infection prevention during the resident's care review.",
+    "category": "Medical / Nursing Home"
+  },
+  {
+    "word": "vaccine",
+    "translation": "вакцина",
+    "definition": "Workplace meaning: вакцина",
+    "example": "We discussed vaccine during the resident's care review.",
+    "category": "Medical / Nursing Home"
+  },
+  {
+    "word": "vaccination",
+    "translation": "вакцинация",
+    "definition": "Workplace meaning: вакцинация",
+    "example": "We discussed vaccination during the resident's care review.",
+    "category": "Medical / Nursing Home"
+  },
+  {
+    "word": "vaccine consent",
+    "translation": "согласие на вакцинацию",
+    "definition": "Workplace meaning: согласие на вакцинацию",
+    "example": "We discussed vaccine consent during the resident's care review.",
+    "category": "Medical / Nursing Home"
+  },
+  {
+    "word": "vaccination history",
+    "translation": "история вакцинации",
+    "definition": "Workplace meaning: история вакцинации",
+    "example": "We discussed vaccination history during the resident's care review.",
+    "category": "Medical / Nursing Home"
+  },
+  {
+    "word": "flu vaccine",
+    "translation": "вакцина против гриппа",
+    "definition": "Workplace meaning: вакцина против гриппа",
+    "example": "We discussed flu vaccine during the resident's care review.",
+    "category": "Medical / Nursing Home"
+  },
+  {
+    "word": "medical report",
+    "translation": "медицинский отчёт",
+    "definition": "Workplace meaning: медицинский отчёт",
+    "example": "We discussed medical report during the resident's care review.",
+    "category": "Medical / Nursing Home"
+  },
+  {
+    "word": "medical supplies",
+    "translation": "медицинские расходные материалы",
+    "definition": "Workplace meaning: медицинские расходные материалы",
+    "example": "We discussed medical supplies during the resident's care review.",
+    "category": "Medical / Nursing Home"
+  },
+  {
+    "word": "legally blind",
+    "translation": "официально признанный слепым",
+    "definition": "Workplace meaning: официально признанный слепым",
+    "example": "We discussed legally blind during the resident's care review.",
+    "category": "Medical / Nursing Home"
+  },
+  {
+    "word": "safety hazard",
+    "translation": "угроза безопасности",
+    "definition": "Workplace meaning: угроза безопасности",
+    "example": "We discussed safety hazard during the resident's care review.",
+    "category": "Medical / Nursing Home"
+  },
+  {
+    "word": "fall risk",
+    "translation": "риск падения",
+    "definition": "Workplace meaning: риск падения",
+    "example": "We discussed fall risk during the resident's care review.",
+    "category": "Medical / Nursing Home"
+  },
+  {
+    "word": "supervision",
+    "translation": "наблюдение, надзор",
+    "definition": "Workplace meaning: наблюдение, надзор",
+    "example": "We discussed supervision during the resident's care review.",
+    "category": "Medical / Nursing Home"
+  },
+  {
+    "word": "thickener",
+    "translation": "загуститель",
+    "definition": "Workplace meaning: загуститель",
+    "example": "We discussed thickener during the resident's care review.",
+    "category": "Medical / Nursing Home"
+  },
+  {
+    "word": "thickener packet",
+    "translation": "пакетик загустителя",
+    "definition": "Workplace meaning: пакетик загустителя",
+    "example": "We discussed thickener packet during the resident's care review.",
+    "category": "Medical / Nursing Home"
+  },
+  {
+    "word": "thickened liquid",
+    "translation": "загущённая жидкость",
+    "definition": "Workplace meaning: загущённая жидкость",
+    "example": "We discussed thickened liquid during the resident's care review.",
+    "category": "Medical / Nursing Home"
+  },
+  {
+    "word": "pre-thickened water",
+    "translation": "готовая загущённая вода",
+    "definition": "Workplace meaning: готовая загущённая вода",
+    "example": "We discussed pre-thickened water during the resident's care review.",
+    "category": "Medical / Nursing Home"
+  },
+  {
+    "word": "liquid consistency",
+    "translation": "консистенция жидкости",
+    "definition": "Workplace meaning: консистенция жидкости",
+    "example": "We discussed liquid consistency during the resident's care review.",
+    "category": "Medical / Nursing Home"
+  },
+  {
+    "word": "nursing staff",
+    "translation": "сестринский персонал",
+    "definition": "Workplace meaning: сестринский персонал",
+    "example": "We discussed nursing staff during the resident's care review.",
+    "category": "Medical / Nursing Home"
+  },
+  {
+    "word": "nurse",
+    "translation": "медсестра / медбрат",
+    "definition": "Workplace meaning: медсестра / медбрат",
+    "example": "We discussed nurse during the resident's care review.",
+    "category": "Medical / Nursing Home"
+  },
+  {
+    "word": "CNA (Certified Nursing Assistant)",
+    "translation": "сертифицированный помощник медсестры",
+    "definition": "Workplace meaning: сертифицированный помощник медсестры",
+    "example": "We discussed CNA (Certified Nursing Assistant) during the resident's care review.",
+    "category": "Medical / Nursing Home"
+  },
+  {
+    "word": "rehabilitation / rehab",
+    "translation": "реабилитация",
+    "definition": "Workplace meaning: реабилитация",
+    "example": "We discussed rehabilitation / rehab during the resident's care review.",
+    "category": "Medical / Nursing Home"
+  },
+  {
+    "word": "rehabilitation department",
+    "translation": "отделение реабилитации",
+    "definition": "Workplace meaning: отделение реабилитации",
+    "example": "We discussed rehabilitation department during the resident's care review.",
+    "category": "Medical / Nursing Home"
+  },
+  {
+    "word": "PT (Physical Therapy)",
+    "translation": "физиотерапия",
+    "definition": "Workplace meaning: физиотерапия",
+    "example": "We discussed PT (Physical Therapy) during the resident's care review.",
+    "category": "Medical / Nursing Home"
+  },
+  {
+    "word": "PT evaluation",
+    "translation": "физиотерапевтическая оценка",
+    "definition": "Workplace meaning: физиотерапевтическая оценка",
+    "example": "We discussed PT evaluation during the resident's care review.",
+    "category": "Medical / Nursing Home"
+  },
+  {
+    "word": "clinical documentation",
+    "translation": "клиническая документация",
+    "definition": "Workplace meaning: клиническая документация",
+    "example": "We discussed clinical documentation during the resident's care review.",
+    "category": "Medical / Nursing Home"
+  },
+  {
+    "word": "consent form",
+    "translation": "форма согласия",
+    "definition": "Workplace meaning: форма согласия",
+    "example": "We discussed consent form during the resident's care review.",
+    "category": "Medical / Nursing Home"
+  },
+  {
+    "word": "resident safety",
+    "translation": "безопасность резидента",
+    "definition": "Workplace meaning: безопасность резидента",
+    "example": "We discussed resident safety during the resident's care review.",
+    "category": "Medical / Nursing Home"
+  },
+  {
+    "word": "resident care",
+    "translation": "уход за резидентом",
+    "definition": "Workplace meaning: уход за резидентом",
+    "example": "We discussed resident care during the resident's care review.",
+    "category": "Medical / Nursing Home"
+  },
+  {
+    "word": "plan of care",
+    "translation": "план ухода / лечения",
+    "definition": "Workplace meaning: план ухода / лечения",
+    "example": "We discussed plan of care during the resident's care review.",
+    "category": "Medical / Nursing Home"
+  },
+  {
+    "word": "evaluation",
+    "translation": "оценка",
+    "definition": "Workplace meaning: оценка",
+    "example": "We discussed evaluation during the resident's care review.",
+    "category": "Medical / Nursing Home"
+  },
+  {
+    "word": "care needs",
+    "translation": "потребности в уходе",
+    "definition": "Workplace meaning: потребности в уходе",
+    "example": "We discussed care needs during the resident's care review.",
+    "category": "Medical / Nursing Home"
+  },
+  {
+    "word": "level of care",
+    "translation": "уровень необходимого ухода",
+    "definition": "Workplace meaning: уровень необходимого ухода",
+    "example": "We discussed level of care during the resident's care review.",
+    "category": "Medical / Nursing Home"
+  },
+  {
+    "word": "dietary consistency",
+    "translation": "консистенция пищи согласно диете",
+    "definition": "Workplace meaning: консистенция пищи согласно диете",
+    "example": "We discussed dietary consistency during the resident's care review.",
+    "category": "Medical / Nursing Home"
+  },
+  {
+    "word": "dietary restriction",
+    "translation": "диетическое ограничение",
+    "definition": "Workplace meaning: диетическое ограничение",
+    "example": "We discussed dietary restriction during the resident's care review.",
+    "category": "Medical / Nursing Home"
+  },
+  {
+    "word": "nursing unit",
+    "translation": "сестринское отделение",
+    "definition": "Workplace meaning: сестринское отделение",
+    "example": "We discussed nursing unit during the resident's care review.",
+    "category": "Medical / Nursing Home"
+  },
+  {
+    "word": "floor staff",
+    "translation": "персонал этажа",
+    "definition": "Workplace meaning: персонал этажа",
+    "example": "We discussed floor staff during the resident's care review.",
+    "category": "Medical / Nursing Home"
+  },
+  {
+    "word": "resident room",
+    "translation": "комната резидента",
+    "definition": "Workplace meaning: комната резидента",
+    "example": "We discussed resident room during the resident's care review.",
+    "category": "Medical / Nursing Home"
+  },
+  {
+    "word": "medical equipment",
+    "translation": "медицинское оборудование",
+    "definition": "Workplace meaning: медицинское оборудование",
+    "example": "We discussed medical equipment during the resident's care review.",
+    "category": "Medical / Nursing Home"
+  },
+  {
+    "word": "competency assessment",
+    "translation": "оценка профессиональных навыков",
+    "definition": "Workplace meaning: оценка профессиональных навыков",
+    "example": "We discussed competency assessment during the resident's care review.",
+    "category": "Medical / Nursing Home"
+  },
+  {
+    "word": "staff competency",
+    "translation": "профессиональная компетентность персонала",
+    "definition": "Workplace meaning: профессиональная компетентность персонала",
+    "example": "We discussed staff competency during the resident's care review.",
+    "category": "Medical / Nursing Home"
+  },
+  {
+    "word": "clinical education",
+    "translation": "обучение медицинского персонала",
+    "definition": "Workplace meaning: обучение медицинского персонала",
+    "example": "We discussed clinical education during the resident's care review.",
+    "category": "Medical / Nursing Home"
+  },
+  {
+    "word": "infection binder",
+    "translation": "папка по инфекционному контролю",
+    "definition": "Workplace meaning: папка по инфекционному контролю",
+    "example": "We discussed infection binder during the resident's care review.",
+    "category": "Medical / Nursing Home"
+  },
+  {
+    "word": "NHSN reporting",
+    "translation": "отчётность в National Healthcare Safety Network",
+    "definition": "Workplace meaning: отчётность в National Healthcare Safety Network",
+    "example": "We discussed NHSN reporting during the resident's care review.",
+    "category": "Medical / Nursing Home"
+  },
+  {
+    "word": "five-star rating",
+    "translation": "пятизвёздочный рейтинг CMS",
+    "definition": "Workplace meaning: пятизвёздочный рейтинг CMS",
+    "example": "We discussed five-star rating during the resident's care review.",
+    "category": "Medical / Nursing Home"
+  },
+  {
+    "word": "survey readiness",
+    "translation": "готовность к инспекционной проверке",
+    "definition": "Workplace meaning: готовность к инспекционной проверке",
+    "example": "We are reviewing documentation to improve survey readiness.",
+    "category": "Medical / Nursing Home"
+  },
+  {
+    "word": "regulatory compliance",
+    "translation": "соблюдение нормативных требований",
+    "definition": "Workplace meaning: соблюдение нормативных требований",
+    "example": "We discussed regulatory compliance during the resident's care review.",
+    "category": "Medical / Nursing Home"
+  },
+  {
+    "word": "Ambassador Rounds",
+    "translation": "обход резидентов ответственными сотрудниками",
+    "definition": "Workplace meaning: обход резидентов ответственными сотрудниками",
+    "example": "I completed Ambassador Rounds and documented the resident's concerns.",
+    "category": "Medical / Nursing Home"
+  },
+  {
+    "word": "elopement risk",
+    "translation": "риск самовольного ухода резидента",
+    "definition": "Workplace meaning: риск самовольного ухода резидента",
+    "example": "The care team reviewed the resident's elopement risk and supervision needs.",
+    "category": "Medical / Nursing Home"
+  },
+  {
+    "word": "resident supervision",
+    "translation": "надзор за резидентом",
+    "definition": "Workplace meaning: надзор за резидентом",
+    "example": "We discussed resident supervision during the resident's care review.",
+    "category": "Medical / Nursing Home"
+  },
+  {
+    "word": "escorted",
+    "translation": "в сопровождении",
+    "definition": "Workplace meaning: в сопровождении",
+    "example": "We discussed escorted during the resident's care review.",
+    "category": "Medical / Nursing Home"
+  },
+  {
+    "word": "to update the care plan",
+    "translation": "обновить план ухода",
+    "definition": "Workplace meaning: обновить план ухода",
+    "example": "We discussed how to use to update the care plan during the morning meeting.",
+    "category": "Morning Meeting Phrase"
+  },
+  {
+    "word": "to document everything",
+    "translation": "всё документировать",
+    "definition": "Workplace meaning: всё документировать",
+    "example": "We discussed how to use to document everything during the morning meeting.",
+    "category": "Morning Meeting Phrase"
+  },
+  {
+    "word": "to complete the assessment",
+    "translation": "завершить оценку",
+    "definition": "Workplace meaning: завершить оценку",
+    "example": "We discussed how to use to complete the assessment during the morning meeting.",
+    "category": "Morning Meeting Phrase"
+  },
+  {
+    "word": "to obtain consent",
+    "translation": "получить согласие",
+    "definition": "Workplace meaning: получить согласие",
+    "example": "We discussed how to use to obtain consent during the morning meeting.",
+    "category": "Morning Meeting Phrase"
+  },
+  {
+    "word": "to collect vaccine consents",
+    "translation": "собрать согласия на вакцинацию",
+    "definition": "Workplace meaning: собрать согласия на вакцинацию",
+    "example": "We discussed how to use to collect vaccine consents during the morning meeting.",
+    "category": "Morning Meeting Phrase"
+  },
+  {
+    "word": "to follow up with the family",
+    "translation": "повторно связаться с семьёй",
+    "definition": "Workplace meaning: повторно связаться с семьёй",
+    "example": "I will follow up with the family after the care plan meeting.",
+    "category": "Morning Meeting Phrase"
+  },
+  {
+    "word": "to touch base with the resident",
+    "translation": "поговорить с резидентом, проверить ситуацию",
+    "definition": "Workplace meaning: поговорить с резидентом, проверить ситуацию",
+    "example": "We discussed how to use to touch base with the resident during the morning meeting.",
+    "category": "Morning Meeting Phrase"
+  },
+  {
+    "word": "to restrict access",
+    "translation": "ограничить доступ",
+    "definition": "Workplace meaning: ограничить доступ",
+    "example": "We discussed how to use to restrict access during the morning meeting.",
+    "category": "Morning Meeting Phrase"
+  },
+  {
+    "word": "the resident must be escorted",
+    "translation": "резидент должен быть в сопровождении",
+    "definition": "Workplace meaning: резидент должен быть в сопровождении",
+    "example": "The resident must be escorted when leaving the unit.",
+    "category": "Morning Meeting Phrase"
+  },
+  {
+    "word": "the resident should not be left unattended",
+    "translation": "резидента нельзя оставлять без присмотра",
+    "definition": "Workplace meaning: резидента нельзя оставлять без присмотра",
+    "example": "The resident should not be left unattended in this area.",
+    "category": "Morning Meeting Phrase"
+  },
+  {
+    "word": "to be on top of it",
+    "translation": "держать ситуацию под контролем",
+    "definition": "Workplace meaning: держать ситуацию под контролем",
+    "example": "We discussed how to use to be on top of it during the morning meeting.",
+    "category": "Morning Meeting Phrase"
+  },
+  {
+    "word": "to complete Ambassador Rounds",
+    "translation": "выполнить Ambassador Rounds",
+    "definition": "Workplace meaning: выполнить Ambassador Rounds",
+    "example": "We discussed how to use to complete Ambassador Rounds during the morning meeting.",
+    "category": "Morning Meeting Phrase"
+  },
+  {
+    "word": "staffing challenges",
+    "translation": "проблемы с обеспеченностью персоналом",
+    "definition": "Workplace meaning: проблемы с обеспеченностью персоналом",
+    "example": "We discussed how to use staffing challenges during the morning meeting.",
+    "category": "Morning Meeting Phrase"
+  },
+  {
+    "word": "outstanding invoices",
+    "translation": "неоплаченные счета",
+    "definition": "Workplace meaning: неоплаченные счета",
+    "example": "We discussed how to use outstanding invoices during the morning meeting.",
+    "category": "Morning Meeting Phrase"
+  },
+  {
+    "word": "the program is up and running",
+    "translation": "программа полностью запущена и работает",
+    "definition": "Workplace meaning: программа полностью запущена и работает",
+    "example": "The specialty program is now up and running.",
+    "category": "Morning Meeting Phrase"
+  }
+]
